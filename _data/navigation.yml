@@ -1,33 +1,13 @@
 # The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-#
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
-
 main:
+  - title: "About"        # 对应主页面(skhelife)
+    url: "/#about"        # 指向首页顶部
+    
   - title: "Publications"
-    url: /publications/
+    url: "/#publications" # 指向首页的论文部分
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Education"
+    url: "/#education"    # 指向首页的教育部分
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Awards"
+    url: "/#awards"       # 指向首页的获奖部分
