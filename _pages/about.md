@@ -22,7 +22,8 @@ I am deeply fascinated by the mechanisms of **reasoning** in large language mode
 
 📧 **Email:** skhelife@outlook.com  
 💬 **Wechat:** skhelife
----
+
+
 <h2 id="education" style="margin-top: 60px;">🎓 Education</h2>
 
 **Chongqing University (CQU)**, China  
@@ -37,7 +38,7 @@ I am deeply fascinated by the mechanisms of **reasoning** in large language mode
 <div style="margin-bottom: 30px;">
   <h3 style="margin-bottom: 5px; font-weight: bold;">DiffER: Diffusion Entity-Relation Modeling for Reversal Curse in Diffusion Large Language Models</h3>
   
-  <p style="margin: 5px 0;"><b>Shaokai He</b>, Kaiwen Wei, Yu Tian. <i>arXiv</i>, 2026.</p>
+  <p style="margin: 5px 0;"><b>Shaokai He</b>, Kaiwen Wei, Yu Tian,2026.</p>
   
   <img src="/images/differ_img.png" alt="DiffER Model Architecture" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #eee; border-radius: 5px;">
   
