@@ -53,10 +53,11 @@ I am deeply fascinated by the mechanisms of **reasoning** in large language mode
 
 <h2 id="awards" style="margin-top: 60px;">🏆 Honors & Awards</h2>
 
-* **National Scholarship** (Top 0.2%), *2024*
-* **Meritorious Winner**, MCM/ICM, *2024*
-* **First Prize**, CQU Academic Scholarship, *2023, 2024*
-* **Outstanding Student** of Chongqing University, *2024*
-
+<ul>
+  <li><strong>Merit Student</strong> of Chongqing University (重庆大学三好学生), <em>2025</em></li>
+  <li><strong>Outstanding League Member</strong> of Chongqing University (重庆大学优秀共青团员), <em>2024</em></li>
+  <li><strong>First Prize</strong>, Chinese Mathematics Competitions (Chongqing Division) (大学生数学竞赛重庆市一等奖), <em>2024</em></li>
+  <li><strong>First Prize</strong>, National College Student Statistical Modeling Competition (Chongqing Division) (统计建模大赛重庆市一等奖), <em>2025</em></li>
+</ul>
 
 
