@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "skhe.jpg" # 请确保 images 文件夹里有这个图片，或者改为您的图片文件名
   name             : "Shaokai He" # 【建议修改】侧边栏显示的名字
-  pronouns         : # example: "she/her"
+  pronouns         : # example: "she/her"  
   bio              : "Welcome to my page and welcome any type discussion with me" # 【建议修改】侧边栏简介
   location         : "Chongqing, China" # 【建议修改】您的所在地
   employer         : "Chongqing University"
   uri              : # URL
-  email            : "skhelife@outlook.com"
+  email            : "skhelife@outlook.com" 
 
   # Academic websites
   academia         : # URL
@@ -38,10 +38,8 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ" # 【建议修改】您的谷歌学术链接
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +55,6 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -81,6 +78,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : "qing-feng-xu-lai-38-63-2"
+
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
