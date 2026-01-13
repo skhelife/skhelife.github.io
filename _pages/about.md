@@ -22,6 +22,15 @@ I am deeply fascinated by the mechanisms of **reasoning** in large language mode
 
 📧 **Email:** skhelife@outlook.com  
 💬 **Wechat:** skhelife
+---
+
+<h2 id="publications" style="margin-top: 60px;">📝 Publications</h2>
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 ---
 
@@ -42,12 +51,5 @@ I am deeply fascinated by the mechanisms of **reasoning** in large language mode
 * **First Prize**, CQU Academic Scholarship, *2023, 2024*
 * **Outstanding Student** of Chongqing University, *2024*
 
----
 
-<h2 id="publications" style="margin-top: 60px;">📝 Publications</h2>
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
