@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title" # 【建议修改】改为您的名字或网站标题
+title                    : "skhelife" # 【建议修改】改为您的名字或网站标题
 title_separator          : "-"
-name                     : &name "Your Name"        # 【建议修改】改为您的名字
-description              : &description "Your Name's academic portfolio"   # 【建议修改】网站简介
+name                     : &name "Shaokai He"        # 【建议修改】改为您的名字
+description              : &description "Shaokai He's homepage"   # 【建议修改】网站简介
 url                      : "https://skhelife.github.io" # 【已修改】您的网站地址
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,14 +23,14 @@ repository               : "skhelife/skhelife.github.io" # 【已修改】您的
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" # 请确保 images 文件夹里有这个图片，或者改为您的图片文件名
-  name             : "Your Sidebar Name" # 【建议修改】侧边栏显示的名字
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar" # 【建议修改】侧边栏简介
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "skhe.jpg" # 请确保 images 文件夹里有这个图片，或者改为您的图片文件名
+  name             : "Shaokai He" # 【建议修改】侧边栏显示的名字
+  pronouns         : # example: "she/her"
+  bio              : "Welcome to my page and welcome any type discussion with me" # 【建议修改】侧边栏简介
+  location         : "Chongqing, China" # 【建议修改】您的所在地
+  employer         : "Chongqing University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "skhelife@outlook.com"
 
   # Academic websites
   academia         : # URL
@@ -80,8 +80,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
-
+  zhihu            : "qing-feng-xu-lai-38-63-2"
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
