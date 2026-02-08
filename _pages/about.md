@@ -28,9 +28,9 @@ I am deeply fascinated by the mechanisms of **reasoning** in large language mode
 
 **Chongqing University (CQU)**, China  
 *B.Eng. in Computer Science and Technology (Hongshen honor school)*,  2023 - Present*
-* **GPA:** 3.66 / 4.0
+* **GPA:** 3.71 / 4.0
 * **Average score:** 88.432 / 100
-* **Ranking:** **7 / 202** (Top 3.5%)
+* **Ranking:** **6 / 202** (Top 2.97%)
 
 ---
 <h2 id="publications" style="margin-top: 60px;">📝 Publications</h2>
@@ -60,5 +60,6 @@ I am deeply fascinated by the mechanisms of **reasoning** in large language mode
   <li><strong>First Prize</strong>, Chinese Mathematics Competitions (Chongqing Division) (大学生数学竞赛重庆市一等奖), <em>2024</em></li>
   <li><strong>First Prize</strong>, National College Student Statistical Modeling Competition (Chongqing Division) (统计建模大赛重庆市一等奖), <em>2025</em></li>
 </ul>
-
+  <li><strong>Honorable Prize</strong>, CCPC Harbin Regional Competition(CCPC哈尔滨区域赛优胜奖), <em>2025</em></li>
+</ul>
 
