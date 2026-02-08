@@ -20,7 +20,7 @@ I am deeply fascinated by the mechanisms of **reasoning** in large language mode
 
 🔥 **I am actively seeking research internship opportunities. Please feel free to contact me!**
 
-📧 **Email:** skhelife@outlook.com  
+📧 **Email:** heshaokai@stu.cqu.edu.cn  
 💬 **Wechat:** skhelife
 
 
