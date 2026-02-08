@@ -59,7 +59,6 @@ I am deeply fascinated by the mechanisms of **reasoning** in large language mode
   <li><strong>Outstanding League Member</strong> of Chongqing University (重庆大学优秀共青团员), <em>2024</em></li>
   <li><strong>First Prize</strong>, Chinese Mathematics Competitions (Chongqing Division) (大学生数学竞赛重庆市一等奖), <em>2024</em></li>
   <li><strong>First Prize</strong>, National College Student Statistical Modeling Competition (Chongqing Division) (统计建模大赛重庆市一等奖), <em>2025</em></li>
-</ul>
   <li><strong>Honorable Prize</strong>, CCPC Harbin Regional Competition(CCPC哈尔滨区域赛优胜奖), <em>2025</em></li>
-</ul>
+<ui>
 
