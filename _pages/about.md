@@ -13,8 +13,8 @@ redirect_from:
 I am a **third-year** Undergraduate Student of **Computer Science and Technology (Top-notch Undergraduate Training Program)**, **Chongqing University**, China.
 
 My research interests primarily center on **Large Language Models (LLMs)**, with a specific focus on:
-* **Diffusion LLMs**
 * **Multimodal LLMs**
+* **LLM Agent**
 
 I am deeply fascinated by the mechanisms of **reasoning** in large language models and exploring how to align them with **human cognition and logic** (Alignment & Reasoning).
 
@@ -30,7 +30,7 @@ I am deeply fascinated by the mechanisms of **reasoning** in large language mode
 *B.Eng. in Computer Science and Technology (Hongshen honor school)*,  2023 - Present*
 * **GPA:** 3.71 / 4.0
 * **Average score:** 89.05 / 100
-* **Ranking:** **6 / 202** (Top 2.97%)
+* **Ranking:** **7 / 202** (Top 3.47%)
 
 ---
 <h2 id="publications" style="margin-top: 60px;">📝 Publications</h2>
