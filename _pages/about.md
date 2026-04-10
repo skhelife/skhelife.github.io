@@ -30,7 +30,7 @@ I am deeply fascinated by the mechanisms of **reasoning** in large language mode
 *B.Eng. in Computer Science and Technology (Hongshen honor school)*,  2023 - Present*
 * **GPA:** 3.71 / 4.0
 * **Average score:** 89.05 / 100
-* **Ranking:** **7 / 202** (Top 3.47%)
+* **Ranking:** **7 / 204** (Top 3.43%)
 
 ---
 <h2 id="publications" style="margin-top: 60px;">📝 Publications</h2>
