@@ -46,6 +46,7 @@ I am deeply fascinated by the mechanisms of **reasoning** in large language mode
     <span style="font-weight: bold; color: #c71d1d;">(Findings of ACL 2026)</span>
     
     <a href="https://arxiv.org/abs/2601.07347" target="_blank" style="margin-left: 15px; font-weight: bold; text-decoration: underline;">[Paper]</a>
+    <a href="https://github.com/skhelife/DiffER" target="_blank" style="margin-left: 15px; font-weight: bold; text-decoration: underline;">[Code]</a>
   </p>
 </div>
 ---
