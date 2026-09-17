@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Shaokai He — Research &amp; Discovery</title>
+  <desc id="desc">Personal academic homepage. Large language models, multimodal intelligence, and agents.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1026"/><stop offset="1" stop-color="#18294a"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+  <g fill="none" stroke="url(#accent)" opacity=".35">
+    <circle cx="1035" cy="172" r="108"/><ellipse cx="1035" cy="172" rx="153" ry="55" transform="rotate(-35 1035 172)"/>
+    <ellipse cx="1035" cy="172" rx="153" ry="55" transform="rotate(35 1035 172)"/>
+    <path d="M890 172h290M1035 28v288" stroke-opacity=".35"/>
+  </g>
+  <circle cx="1035" cy="172" r="9" fill="#67e8f9"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">
+    <text x="64" y="66" fill="#67e8f9" font-size="14" letter-spacing="4">RESEARCH &amp; DISCOVERY</text>
+    <text x="60" y="146" fill="#f8fafc" font-size="64" font-weight="700">Shaokai He</text>
+    <text x="64" y="190" fill="#cbd5e1" font-size="21">Large Language Models · Multimodal Intelligence · Agents</text>
+    <rect x="64" y="222" width="56" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="64" y="267" fill="#e2e8f0" font-size="20">Incoming Student at Peking University</text>
+    <text x="64" y="299" fill="#94a3b8" font-size="16">2027.09–2030.06  /  skhelife.github.io</text>
+  </g>
+</svg>

@@ -1,66 +1,52 @@
 ---
 permalink: /
-title: "Welcome to my homepage!"
-excerpt: "About me"
+title: "Shaokai He"
+excerpt: "Incoming student at Peking University (2027.09–2030.06), interested in large language models, multimodal intelligence, and agents."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
 <span id="about"></span>
 
-I am a **third-year** Undergraduate Student of **Computer Science and Technology (Top-notch Undergraduate Training Program)**, **Chongqing University**, China.
+I am **Shaokai He**, an **incoming student at Peking University (2027.09–2030.06)**. I am currently pursuing a **B.Eng. in Computer Science and Technology** at **Chongqing University**, as part of the **Top-notch Undergraduate Training Program** at Hongshen Honors School.
 
-My research interests primarily center on **Large Language Models (LLMs)**, with a specific focus on:
-* **Multimodal LLMs**
-* **LLM Agent**
+My research interests lie in **large language models (LLMs)**, with a focus on **multimodal LLMs** and **LLM agents**. I am particularly interested in how language models reason, integrate information across modalities, and solve complex tasks. More broadly, I aim to better understand the relationship between model reasoning, human cognition, and alignment.
 
-I am deeply fascinated by the mechanisms of **reasoning** in large language models and exploring how to align them with **human cognition and logic** (Alignment & Reasoning).
+**I welcome research discussions, collaborations, and research internship opportunities. Please feel free to get in touch!**
 
-🔥 **I am actively seeking research internship opportunities. Please feel free to contact me!**
+**Email:** [heshaokai@stu.cqu.edu.cn](mailto:heshaokai@stu.cqu.edu.cn) · **WeChat:** `skhelife`
 
-📧 **Email:** heshaokai@stu.cqu.edu.cn  
-💬 **Wechat:** skhelife
+<h2 id="education">🎓 Education</h2>
 
+**Peking University**, China<br>
+*Incoming Student* · **2027.09–2030.06**
 
-<h2 id="education" style="margin-top: 60px;">🎓 Education</h2>
+**Chongqing University**, China<br>
+*B.Eng. in Computer Science and Technology, Hongshen Honors School* · **2023–Present**
 
-**Chongqing University (CQU)**, China  
-*B.Eng. in Computer Science and Technology (Hongshen honor school)*,  2023 - Present*
-* **GPA:** 3.71 / 4.0
-* **Average score:** 89.05 / 100
-* **Ranking:** **7 / 204** (Top 3.43%)
+- **Program:** Top-notch Undergraduate Training Program
+- **GPA:** 3.71 / 4.0
+- **Average score:** 89.05 / 100
+- **Rank:** 7 / 204 (Top 3.43%)
 
----
-<h2 id="publications" style="margin-top: 60px;">📝 Publications</h2>
+<h2 id="publications">📝 Publications</h2>
 
-<div style="margin-bottom: 30px;">
-  <h3 style="margin-bottom: 5px; font-weight: bold;">DiffER: Diffusion Entity-Relation Modeling for Reversal Curse in Diffusion Large Language Models</h3>
-  
-  <p style="margin: 5px 0;"><b>Shaokai He</b>, Kaiwen Wei, Yu Tian,2026.</p>
-  
-  <img src="/images/differ_img.png" alt="DiffER Model Architecture" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #eee; border-radius: 5px;">
-  
-  <p style="margin-top: 5px;">
-    <span style="font-weight: bold; color: #c71d1d;">(Findings of ACL 2026)</span>
-    
-    <a href="https://arxiv.org/abs/2601.07347" target="_blank" style="margin-left: 15px; font-weight: bold; text-decoration: underline;">[Paper]</a>
-    <a href="https://github.com/skhelife/DiffER" target="_blank" style="margin-left: 15px; font-weight: bold; text-decoration: underline;">[Code]</a>
-  </p>
-</div>
----
+### DiffER: Diffusion Entity-Relation Modeling for Reversal Curse in Diffusion Large Language Models
 
+**Shaokai He**, Kaiwen Wei, Yu Tian<br>
+**Findings of ACL 2026**
 
+[Paper](https://arxiv.org/abs/2601.07347) · [Code](https://github.com/skhelife/DiffER)
 
-<h2 id="awards" style="margin-top: 60px;">🏆 Honors & Awards</h2>
+![DiffER model architecture]({{ '/images/differ_img.png' | relative_url }})
 
-<ul>
-  <li><strong>Merit Student</strong> of Chongqing University (重庆大学三好学生), <em>2025</em></li>
-  <li><strong>Outstanding League Member</strong> of Chongqing University (重庆大学优秀共青团员), <em>2024</em></li>
-  <li><strong>First Prize</strong>, Chinese Mathematics Competitions (Chongqing Division) (大学生数学竞赛重庆市一等奖), <em>2024</em></li>
-  <li><strong>First Prize</strong>, National College Student Statistical Modeling Competition (Chongqing Division) (统计建模大赛重庆市一等奖), <em>2025</em></li>
-  <li><strong>Honorable Prize</strong>, CCPC Harbin Regional Competition(CCPC哈尔滨区域赛优胜奖), <em>2025</em></li>
-  <li><strong>Honorable Mention</strong>, Mathematical Contest In Modeling(美国大学生数学建模竞赛), <em>2026</em></li>
-<ui>
+<h2 id="awards">🏆 Honors & Awards</h2>
 
+- **Honorable Mention**, Mathematical Contest in Modeling (美国大学生数学建模竞赛), 2026
+- **Merit Student**, Chongqing University (重庆大学三好学生), 2025
+- **First Prize**, National College Student Statistical Modeling Competition, Chongqing Division (统计建模大赛重庆市一等奖), 2025
+- **Honorable Prize**, CCPC Harbin Regional Competition (CCPC 哈尔滨区域赛优胜奖), 2025
+- **Outstanding League Member**, Chongqing University (重庆大学优秀共青团员), 2024
+- **First Prize**, Chinese Mathematics Competitions, Chongqing Division (大学生数学竞赛重庆市一等奖), 2024
